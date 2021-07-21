@@ -21,7 +21,7 @@ through the coursework the plots were straight froward.
 the challenge the plots were difficult for the data is grouped and resampled.
 
 ## Purpose
-#the purpose of the plot is to tell a story. different graphs to show different data.
+#the purpose of the plot is to tell a story. different line graphs to show different data.
 
 ## Analysis and Challenges
 the group by analysis grouped data frames and delineated index from columns and values.
