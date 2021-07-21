@@ -26,7 +26,8 @@ the challenge the plots were difficult for the data is grouped and resampled.
 ## Analysis and Challenges
 the group by analysis grouped data frames and delineated index from columns and values.
 the link to the png is below.
-Resources/Deliverable 2.png
+https://github.com/frankxsu11ivan/PyBer_Analysis/issues/1
+
 
 ## Results
 The differences in ride-sharing data among the different city Urban, Suburban and Rural types. 
