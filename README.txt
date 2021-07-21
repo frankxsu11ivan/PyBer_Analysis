@@ -29,6 +29,7 @@ the link to the png is below.
 https://github.com/frankxsu11ivan/PyBer_Analysis/issues/1
 
 
+
 ## Results
 The differences in ride-sharing data among the different city Urban, Suburban and Rural types. 
 with the how "left" some  urban data was not called. In the 'Urban' df the data table was used for the results.
